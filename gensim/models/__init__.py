@@ -11,6 +11,8 @@ from tfidfmodel import TfidfModel
 from rpmodel import RpModel
 from logentropy_model import LogEntropyModel
 from word2vec import Word2Vec
+from esamodel import EsaModel
+from cosine_esamodel import CosineEsaModel
 
 from gensim import interfaces, utils
 
